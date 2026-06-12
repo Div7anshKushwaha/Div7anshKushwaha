@@ -66,10 +66,10 @@ Full Time  ·  Internship  ·  Remote  ·  Hybrid  ·  Bhopal  ·  Pan-India
 <div align="center">
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,sql,java,bash,markdown&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,bash,markdown&theme=dark)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,vue&theme=dark)](https://skillicons.dev)
 
 ### Backend & Databases
 [![Backend](https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,mongodb,redis&theme=dark)](https://skillicons.dev)
