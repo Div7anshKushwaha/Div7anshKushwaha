@@ -244,8 +244,7 @@ Includes heatmaps, violin plots, pair plots, animated scatter plots with Plotly 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Div7anshKushwaha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-trophies.vercel.app/?username=Div7anshKushwaha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
