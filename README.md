@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Designing+AI-Powered+Architectures+%E2%9A%A1;Engineering+Production-Grade+ML+Pipelines+%F0%9F%9A%80;Crafting+Full+Stack+Applications+%F0%9F%8C%90;Pursuing+AI+Engineering+%40+20%2B+LPA+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Designing+AI-Powered+Architectures+%E2%9A%A1;Engineering+Production-Grade+ML+Pipelines+%F0%9F%9A%80;Crafting+Full+Stack+Applications+%F0%9F%8C%90;Pursuing+AI+Engineering)](https://git.io/typing-svg)
 
 </div>
 
@@ -48,7 +48,7 @@ My engineering philosophy is rooted in building **production-grade, scalable, an
 
 My technical arsenal spans the full pipeline — from **data ingestion and feature engineering** through **model training, evaluation, and MLOps deployment**. I specialize in building intelligent systems using LLMs, Transformers, LangChain, and agentic AI frameworks, complemented by strong backend and DevOps engineering skills.
 
-Currently advancing through a structured **deep learning and GenAI roadmap**, targeting a senior AI Engineer role at **₹20 LPA** as a fresher — a bar I am engineering every single day toward.
+Currently advancing through a structured **deep learning and GenAI roadmap**, targeting a AI Engineer role as a fresher — a bar I am engineering every single day toward.
 
 <br/>
 
@@ -88,7 +88,7 @@ Full Time  ·  Internship  ·  Remote  ·  Hybrid  ·  Bhopal  ·  Pan-India
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
 | Classical Machine Learning | ███████████ Expert | Linear/Logistic Regression, SVM, KNN, Decision Trees, Random Forest, XGBoost, LightGBM, CatBoost, Optuna |
-| Deep Learning | ██████████░ Advanced | ANN, CNN, RNN, LSTM, GRU, Transformers, Attention Mechanisms — CampusX 100 Days DL |
+| Deep Learning | ██████████░ Advanced | ANN, CNN, RNN, LSTM, GRU, Transformers, Attention Mechanisms |
 | Generative AI & LLMs | █████████░░ Proficient | LangChain, Prompt Engineering, RAG Pipelines, LLM Orchestration |
 | Agentic AI | ████████░░░ Developing | LangGraph, Tool-Use Agents, Multi-Agent Systems, MCP Protocol |
 | Unsupervised Learning | ███████████ Expert | KMeans, DBSCAN, GMM, Hierarchical Clustering, t-SNE |
@@ -149,7 +149,7 @@ Covers window functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD), CTEs and recu
 </details>
 
 <details>
-<summary><b>◉ Interactive Data Visualization Dashboard — Plotly & Seaborn</b></summary>
+<summary><b>◉ Interactive Data Visualization Dashboard — Plotly & PowerBi </b></summary>
 
 <br/>
 
@@ -171,28 +171,6 @@ Includes heatmaps, violin plots, pair plots, animated scatter plots with Plotly 
 </details>
 
 ---
-
-## ◈ Experience
-
-<div align="left">
-
-**AI/ML Engineer Intern** — *Local ML+SQL Organization, Bhopal*
-`2025 – Present`
-
-Embedded in a cross-functional team delivering ML-powered data applications for business intelligence use cases. Contributing to model development, SQL pipeline construction, and backend integration.
-
-- Designed and executed SQL analytics pipelines on relational schemas with complex multi-table joins and window functions
-- Built ML models for structured data prediction tasks using Scikit-learn and gradient boosting frameworks
-- Integrated Python backend with PostgreSQL via psycopg2, enforcing parameterized query patterns for security compliance
-- Contributed to data preprocessing, feature engineering, and model evaluation reporting
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-6A0DAD?style=flat-square&logo=databricks&logoColor=white)
-
-</div>
-
 ---
 
 ## ◈ Achievements
@@ -203,12 +181,9 @@ Embedded in a cross-functional team delivering ML-powered data applications for 
 |:---:|:---|
 | **IIT Madras Foundation Level — Completed** | Cleared all 8 Foundation courses: Maths I & II, Statistics I & II, Python, Computational Thinking, English I & II |
 | **IIT Madras Diploma Level — In Progress** | Completed PDSA, DBMS, ML Foundations; pursuing advanced Diploma courses |
-| **DSMP 1.0 & 2.0 — Fully Completed** | Mastered full CampusX Data Science Mentorship Program; 40+ ML topics covered end-to-end |
+| **Cleared JEE** | Pursuing B.S in Data Science and Applications from IIT Madras |
 | **Advanced SQL Portfolio** | Built enterprise-grade SQL portfolio on Silberschatz schema with window functions, CTEs, correlated subqueries |
-| **ML Capstone Project** | Delivered end-to-end real estate price prediction engine as DSMP capstone |
-| **Structured AI Roadmap** | Self-designed a 6-month AI Engineer roadmap targeting 20+ LPA with locked-in sequential milestones |
-| **HP Victus RTX 3050 Local ML Lab** | Configured local GPU environment (RTX 3050 6GB) for training DL models without cloud dependency |
-
+| **ML Capstone Project** | Delivered end-to-end real estate price prediction engine |
 </div>
 
 ---
