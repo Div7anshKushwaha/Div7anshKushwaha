@@ -304,25 +304,23 @@ Embedded in a cross-functional team delivering ML-powered data applications for 
 ```yaml
 current_focus:
   learning:
-    - "100 Days of Deep Learning — CampusX (June 2025 → July 2025)"
     - "ANN · CNN · RNN · LSTM · Transformers · Attention"
-    - "GenAI using LangChain (July → August 2025)"
+    - "GenAI using LangChain"
     - "RAG Pipelines · LLM Orchestration · Prompt Engineering"
 
   building:
-    - "Real Estate Price Prediction Engine — DSMP Capstone"
+    - "Real Estate Price Prediction Engine"
     - "SQL Analytics Portfolio on Silberschatz University Schema"
-    - "FastAPI ML Deployment Pipelines (September 2025)"
+    - "FastAPI ML Deployment Pipelines"
 
   exploring:
-    - "Fine-Tuning Transformers on Custom Datasets (September → October 2025)"
-    - "Agentic AI with LangGraph · MCP Protocol (October → November 2025)"
+    - "Fine-Tuning Transformers on Custom Datasets"
+    - "Agentic AI with LangGraph · MCP Protocol 
     - "Multi-Agent System Architecture Patterns"
 
   open_to:
     - "AI Engineer · ML Engineer · Data Scientist"
     - "Full Time · Internship · Remote · Hybrid"
-    - "Target: 20+ LPA | Timeline: Late 2025 / Early 2026"
 ```
 
 ---
@@ -332,7 +330,7 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-divyanshh.ds%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshh.ds@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-kushwaha-603616383)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-kushwaha-603616383)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Div7anshKushwaha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Div7anshKushwaha)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-7B2FBE?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Div7anshKushwaha)
 
