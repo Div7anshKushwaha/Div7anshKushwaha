@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,5C16C3&height=200&section=header&text=Divyansh%20Kushwaha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,5C16C3&height=200&section=header&text=Divyansh%20Kushwaha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Agentic%20AI%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Designing+AI-Powered+Architectures+%E2%9A%A1;Engineering+Production-Grade+ML+Pipelines+%F0%9F%9A%80;Crafting+Full+Stack+Applications+%F0%9F%8C%90;Pursuing+AI+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=750&lines=Building+Production-Grade+AI+Systems+%F0%9F%A7%A0;Engineering+RAG+Pipelines+%26+Agentic+Workflows+%E2%9A%A1;LangChain+%C2%B7+LangGraph+%C2%B7+MCP+Protocol+%F0%9F%9A%80;Pursuing+AI+Engineer+Role+as+a+Fresher+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +21,6 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-7B2FBE?style=flat-square&logo=firefox&logoColor=white)](https://github.com/Div7anshKushwaha)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-kushwaha-603616383)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-6A0DAD?style=flat-square&logo=gmail&logoColor=white)](mailto:divyanshh.ds@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Div7anshKushwaha)
@@ -42,20 +41,18 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Div7anshKushwaha&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github" />
 
-I am an AI Engineer and Data Scientist in the making — currently pursuing a **BS in Data Science & Applications from IIT Madras**, with a strong foundation in classical ML, deep learning, and full stack development.
+I am an AI Engineer in the making — currently pursuing a **BS in Data Science & Applications from IIT Madras**, with a strong foundation in classical ML, deep learning, and generative AI.
 
 My engineering philosophy is rooted in building **production-grade, scalable, and interpretable AI systems** — not just notebooks. I approach every project with a product mindset: who uses this, why it matters, and how it performs under real-world conditions.
 
-My technical arsenal spans the full pipeline — from **data ingestion and feature engineering** through **model training, evaluation, and MLOps deployment**. I specialize in building intelligent systems using LLMs, Transformers, LangChain, and agentic AI frameworks, complemented by strong backend and DevOps engineering skills.
-
-Currently advancing through a structured **deep learning and GenAI roadmap**, targeting a AI Engineer role as a fresher — a bar I am engineering every single day toward.
+Specializing in **GenAI Engineering + Agentic AI** — RAG pipelines, LangGraph stateful agents, MCP protocol integration, CRAG, Self-RAG, and LLM observability with LangSmith. Currently learning MLOps (Docker, GitHub Actions, MLflow) to make every project production-ready.
 
 <br/>
 
 **↳ Open To**
 
 ```
-AI Engineer  ·  ML Engineer  ·  Data Scientist  ·  Backend Engineer (AI-adjacent)
+AI Engineer  ·  GenAI Developer  ·  LLM Engineer  ·  ML Engineer
 Full Time  ·  Internship  ·  Remote  ·  Hybrid  ·  Bhopal  ·  Pan-India
 ```
 
@@ -88,12 +85,14 @@ Full Time  ·  Internship  ·  Remote  ·  Hybrid  ·  Bhopal  ·  Pan-India
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
 | Classical Machine Learning | ███████████ Expert | Linear/Logistic Regression, SVM, KNN, Decision Trees, Random Forest, XGBoost, LightGBM, CatBoost, Optuna |
-| Deep Learning | ██████████░ Advanced | ANN, CNN, RNN, LSTM, GRU, Transformers, Attention Mechanisms |
-| Generative AI & LLMs | █████████░░ Proficient | LangChain, Prompt Engineering, RAG Pipelines, LLM Orchestration |
-| Agentic AI | ████████░░░ Developing | LangGraph, Tool-Use Agents, Multi-Agent Systems, MCP Protocol |
+| Deep Learning | ██████████░ Advanced | ANN, CNN, RNN, LSTM, GRU, Transformers, Attention Mechanisms, Encoder-Decoder |
+| Generative AI & LLMs | ██████████░ Proficient | LangChain, Prompt Engineering, RAG Pipelines, Contextual Compression, Multi-query, MMR |
+| Agentic AI | █████████░░ Proficient | LangGraph, Sequential/Parallel/Conditional/Iterative Workflows, HITL, Memory, Tool-Use |
+| MCP Protocol | ████████░░░ Developing | Model Context Protocol — Architecture, Local/Remote Servers, MCP Clients |
+| Advanced RAG | ████████░░░ Developing | CRAG (Corrective RAG), Self-RAG, RAG using LangGraph, RAGAS Evaluation |
+| LLM Observability | ████████░░░ Developing | LangSmith — Tracing, Monitoring, Agent Debugging, Evaluation |
 | Unsupervised Learning | ███████████ Expert | KMeans, DBSCAN, GMM, Hierarchical Clustering, t-SNE |
-| MLOps & Deployment | ████████░░░ Developing | FastAPI, Docker, GitHub Actions, Model Versioning, CI/CD |
-| NLP | █████████░░ Proficient | Embeddings, Tokenization, Fine-Tuning Transformers (Planned) |
+| MLOps & Deployment | ███████░░░░ Learning | Docker, GitHub Actions, MLflow, CI/CD, FastAPI serving |
 | Data Engineering | ██████████░ Advanced | Pandas, NumPy, Feature Engineering, EDA, Imbalanced Data |
 | SQL & Analytics | ███████████ Expert | Window Functions, CTEs, Correlated Subqueries, psycopg2, PostgreSQL |
 | Visualization | ██████████░ Advanced | Matplotlib, Seaborn, Plotly, Power BI, Excel |
@@ -105,72 +104,96 @@ Full Time  ·  Internship  ·  Remote  ·  Hybrid  ·  Bhopal  ·  Pan-India
 ## ◈ Featured Projects
 
 <details>
-<summary><b>◉ Real Estate Price Prediction Engine</b> — Capstone ML Project</summary>
+<summary><b>◉ YouTube RAG Chatbot — Advanced GenAI Project</b></summary>
 
 <br/>
 
-A production-grade machine learning system engineered to predict residential property prices with high accuracy and interpretability. Designed with a full data science lifecycle: ingestion, EDA, feature engineering, model selection, hyperparameter optimization with Optuna, and evaluation against multiple regression benchmarks.
+A production-grade Retrieval Augmented Generation system that answers questions from YouTube video content. Built with modern LangChain architecture using entirely free-tier components — Groq API + HuggingFace embeddings.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python · Scikit-learn · XGBoost · LightGBM · Optuna · Pandas · Matplotlib · Seaborn |
-| **Scale** | Full pipeline from raw CSV to deployment-ready inference endpoint |
-| **Performance** | Ensemble stacking with Optuna-tuned hyperparameters; RMSE-optimized |
-| **Security** | Input validation, schema enforcement, no data leakage across train/test splits |
-| **Impact** | DSMP Capstone Project — demonstrates end-to-end ML engineering competency |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Div7anshKushwaha/NLP-Project) |
-
-The project demonstrates mastery of the full ML development lifecycle — from understanding business requirements and translating them into feature engineering decisions, to model selection, stacking strategies, and evaluation under realistic constraints. The architecture is designed to be deployment-ready via FastAPI.
+| **Stack** | LangChain · ChromaDB · HuggingFace Embeddings · Groq (Llama 3) · Streamlit |
+| **RAG Features** | Contextual Compression · Multi-query Generation · MMR Retrieval |
+| **Evaluation** | RAGAS metrics — Faithfulness, Answer Relevancy, Context Precision |
+| **Cost** | 100% free stack — zero API cost |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Div7anshKushwaha) |
 
 <br/>
 
 </details>
 
 <details>
-<summary><b>◉ Advanced SQL Portfolio — University Database Analytics System</b></summary>
+<summary><b>◉ Laptop Price Predictor — ML Web Application</b></summary>
 
 <br/>
 
-A comprehensive SQL portfolio project built on the Silberschatz University relational database schema, demonstrating mastery of enterprise-level database querying and Python connectivity. Covers the full spectrum of modern SQL usage from foundational joins to advanced analytical patterns.
+End-to-end machine learning web application that predicts laptop prices from specifications. Full data science lifecycle from ingestion to live Streamlit deployment.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | PostgreSQL · Python · psycopg2 · SQL (DDL, DML, DCL) |
-| **Scale** | 10+ complex query categories; multi-table schemas with referential integrity |
-| **Performance** | Index-aware query design; window functions over large relation sets |
-| **Security** | Parameterized queries via psycopg2; safe credential management |
-| **Impact** | Portfolio targeting ML+SQL hybrid roles; demonstrates production SQL readiness |
+| **Stack** | Python · XGBoost · Scikit-learn · Streamlit · Pandas · NumPy |
+| **Features** | EDA · Feature engineering · Model selection · Hyperparameter tuning · Model serialization |
+| **Live** | [laptop-price-predictor-project-d993ad5ymkun8gppg43vhx.streamlit.app](https://laptop-price-predictor-project-d993ad5ymkun8gppg43vhx.streamlit.app) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Div7anshKushwaha/Laptop-price-predictor-project) |
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>◉ Bank Management System — Flask Web Application</b></summary>
+
+<br/>
+
+Full-stack bank management system built with Flask — account creation, session-based auth, deposit/withdrawal, and deployed live on Render.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Python · Flask · HTML · CSS · Jinja2 · JSON · Render |
+| **Features** | Session-based login/logout · Balance validation · Account management · JSON persistence |
+| **Live** | [bankproject-02uj.onrender.com](https://bankproject-02uj.onrender.com) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Div7anshKushwaha/BankProject) |
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>◉ Advanced SQL Analytics — University Database</b></summary>
+
+<br/>
+
+22 enterprise-grade SQL and psycopg2 questions on the Silberschatz University schema — covering the full spectrum from basic aggregation to relational division.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | PostgreSQL · psycopg2 · Python · SQL |
+| **Topics** | Window Functions · CTEs · Correlated Subqueries · Relational Division · ACID Transactions |
+| **Highlights** | RANK vs DENSE_RANK · Cumulative GPA · Top-N per group · Double NOT EXISTS |
 | **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Div7anshKushwaha/university-database-sql-project) |
 
-Covers window functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD), CTEs and recursive CTEs, correlated subqueries, advanced aggregations with HAVING and FILTER, set operations, and full Python/PostgreSQL connectivity through psycopg2. Designed to serve as a recruiter-facing portfolio piece for data-adjacent engineering roles.
-
 <br/>
 
 </details>
 
 <details>
-<summary><b>◉ Interactive Data Visualization Dashboard — Plotly & PowerBi </b></summary>
+<summary><b>◉ Complete Machine Learning Repository — 18 folders · 35+ algorithms</b></summary>
 
 <br/>
 
-A multi-library visualization engineering project spanning static, interactive, and animated charts across real-world datasets. Demonstrates the ability to communicate data narratives through high-quality visual outputs calibrated for both technical and non-technical stakeholders.
+Structured implementation of every major ML algorithm — from mathematical foundations to production-ready code.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python · Matplotlib · Seaborn · Plotly · Pandas |
-| **Scale** | 15+ chart types; multi-dataset comparative analysis |
-| **Performance** | Optimized for rendering speed; vectorized Pandas operations |
-| **Security** | No external API dependencies; fully offline execution |
-| **Impact** | Demonstrates data storytelling competency for analyst and engineering roles |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Div7anshKushwaha/Feature-Engineering-Methods) |
-
-Includes heatmaps, violin plots, pair plots, animated scatter plots with Plotly Express, faceted subplots, and custom Matplotlib figure management. Built to demonstrate visual communication as a core engineering skill, not merely a nice-to-have.
+| **Stack** | Python · Scikit-learn · XGBoost · LightGBM · CatBoost · Optuna · NumPy · Pandas |
+| **Coverage** | Linear Regression → XGBoost · KMeans → GMM · PCA → t-SNE |
+| **Approach** | From-scratch implementations before sklearn · math-first |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Div7anshKushwaha/complete-machine-learning) |
 
 <br/>
 
 </details>
 
----
 ---
 
 ## ◈ Achievements
@@ -179,45 +202,12 @@ Includes heatmaps, violin plots, pair plots, animated scatter plots with Plotly 
 
 | Recognition | Details |
 |:---:|:---|
-| **IIT Madras Foundation Level — Completed** | Cleared all 8 Foundation courses: Maths I & II, Statistics I & II, Python, Computational Thinking, English I & II |
-| **IIT Madras Diploma Level — In Progress** | Completed PDSA, DBMS, ML Foundations; pursuing advanced Diploma courses |
-| **Cleared JEE** | Pursuing B.S in Data Science and Applications from IIT Madras |
-| **Advanced SQL Portfolio** | Built enterprise-grade SQL portfolio on Silberschatz schema with window functions, CTEs, correlated subqueries |
-| **ML Capstone Project** | Delivered end-to-end real estate price prediction engine |
-</div>
-
----
-
-## ◈ Certifications
-
-<div align="center">
-
-### Amazon Web Services
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-
-### Oracle
-[![Oracle](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/certification)
-
-### NPTEL — IIT
-[![NPTEL](https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-6A0DAD?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)&nbsp;
-[![NPTEL](https://img.shields.io/badge/NPTEL-Database%20Management%20Systems-4B0082?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)&nbsp;
-[![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-7B2FBE?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)
-
-### Cisco
-[![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
-
-</div>
-
----
-
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Div7anshKushwaha)&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Div7anshKushwaha)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-View%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/Div7anshKushwaha)&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Div7anshKushwaha)
+| **IIT Madras Foundation Level — Completed** | All 8 Foundation courses: Maths I & II, Statistics I & II, Python, Computational Thinking, English I & II |
+| **IIT Madras Diploma Level — In Progress** | Completed PDSA, DBMS, ML Foundations; currently MAD I, BDM, MLT |
+| **Agentic AI — Complete** | 28/28 lectures: LangGraph workflows, HITL, Memory, MCP, CRAG, Self-RAG, Blog Writing Agent |
+| **GenAI using LangChain — Complete** | RAG pipelines, embeddings, agents, tool calling, LangSmith observability |
+| **Complete ML Repository** | 18 folders, 35+ algorithms implemented from scratch |
+| **Live Deployed Projects** | Laptop Price Predictor (Streamlit) · Bank System (Render) — both live |
 
 </div>
 
@@ -245,6 +235,7 @@ Includes heatmaps, violin plots, pair plots, animated scatter plots with Plotly 
 <div align="center">
 
 [![trophy](https://github-trophies.vercel.app/?username=Div7anshKushwaha&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -277,24 +268,27 @@ Includes heatmaps, violin plots, pair plots, animated scatter plots with Plotly 
 
 ```yaml
 current_focus:
-  learning:
-    - "ANN · CNN · RNN · LSTM · Transformers · Attention"
-    - "GenAI using LangChain"
-    - "RAG Pipelines · LLM Orchestration · Prompt Engineering"
+  completed:
+    - "Classical ML — 35+ algorithms from scratch ✅"
+    - "Deep Learning — Transformers, Attention ✅"
+    - "GenAI using LangChain — RAG, Agents, Tool Calling ✅"
+    - "Agentic AI using LangGraph — complete ✅"
+    - "MCP Protocol — Architecture + Building Servers/Clients ✅"
+    - "FastAPI for ML ✅"
 
   building:
-    - "Real Estate Price Prediction Engine"
-    - "SQL Analytics Portfolio on Silberschatz University Schema"
-    - "FastAPI ML Deployment Pipelines"
+    - "MLOps — Docker, GitHub Actions, MLflow, CI/CD"
+    - "Real Estate Price Predictor — Streamlit deployment"
+    - "Advanced RAG Chatbot — RAGAS evaluation + HF Spaces"
+    - "Blog Writing Agent — LangGraph agentic project"
 
-  exploring:
-    - "Fine-Tuning Transformers on Custom Datasets"
-    - "Agentic AI with LangGraph · MCP Protocol 
-    - "Multi-Agent System Architecture Patterns"
+  next:
+    - "Fine-Tuning Transformers — GPT/BERT on HuggingFace"
+    - "LLM Evaluation — RAGAS + G-Eval + LLM-as-a-Judge"
 
   open_to:
-    - "AI Engineer · ML Engineer · Data Scientist"
-    - "Full Time · Internship · Remote · Hybrid"
+    - "AI Engineer · GenAI Developer · LLM Engineer · ML Engineer"
+    - "Full Time · Internship · Remote · Hybrid · Pan-India"
 ```
 
 ---
@@ -305,8 +299,7 @@ current_focus:
 
 [![Gmail](https://img.shields.io/badge/Gmail-divyanshh.ds%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshh.ds@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-kushwaha-603616383)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Div7anshKushwaha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Div7anshKushwaha)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-7B2FBE?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Div7anshKushwaha)
+[![GitHub](https://img.shields.io/badge/GitHub-Div7anshKushwaha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Div7anshKushwaha)
 
 </div>
 
@@ -318,4 +311,4 @@ current_focus:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,5C16C3&height=120&section=footer&animation=fadeIn" width="100%" />
 
-</div> 
+</div>
