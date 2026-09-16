@@ -203,8 +203,8 @@ Structured implementation of every major ML algorithm — from mathematical foun
 | Recognition | Details |
 |:---:|:---|
 | **IIT Madras Foundation Level — Completed** | All 8 Foundation courses: Maths I & II, Statistics I & II, Python, Computational Thinking, English I & II |
-| **IIT Madras Diploma Level — In Progress** | Completed PDSA, DBMS, ML Foundations; currently MAD I, BDM, MLT |
-| **Agentic AI — Complete** | 28/28 lectures: LangGraph workflows, HITL, Memory, MCP, CRAG, Self-RAG, Blog Writing Agent |
+| **IIT Madras Diploma Level — In Progress** | Completed PDSA, DBMS, MLF, MAD I, BDM, MLT; currently MLP, MAD II |
+| **Agentic AI — Complete** | LangGraph workflows, HITL, Memory, MCP, CRAG, Self-RAG, Blog Writing Agent |
 | **GenAI using LangChain — Complete** | RAG pipelines, embeddings, agents, tool calling, LangSmith observability |
 | **Complete ML Repository** | 18 folders, 35+ algorithms implemented from scratch |
 | **Live Deployed Projects** | Laptop Price Predictor (Streamlit) · Bank System (Render) — both live |
